@@ -10,17 +10,6 @@ def count_bits(x: int) -> int:
 
     return num_bit
 
-
-def parity(x: int) -> int:
-    """Returns 1 if number of 1s is odd, 0 otherwise.
-    """
-    res = 0
-    while x:
-        res ^= x & 1
-        x >>= 1
-
-    return res
-
 if __name__ == '__main__':
     for i in (1, 2, 11):
         print(i, count_bits(i))
