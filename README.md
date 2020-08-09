@@ -34,3 +34,7 @@ I'm planning to go over the book in 1 year from now.
 - [Length of longest equal sublist](list/len_longest_equal_sublist.py)
 - [Max profit from buying and selling once](list/buy_sell_once.py)
 - [Max profit from buying and selling twice](list/buy_sell_twice.py)
+
+### ???
+
+- [Interleave so that A[0] <= A[1] >= A[2] <= A[3]...](list/interleave.py)
