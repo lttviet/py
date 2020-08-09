@@ -33,3 +33,4 @@ I'm planning to go over the book in 1 year from now.
 - [Minimum number of jumps to end of list](list/jump_end.py)
 - [Length of longest equal sublist](list/len_longest_equal_sublist.py)
 - [Max profit from buying and selling once](list/buy_sell_once.py)
+- [Max profit from buying and selling twice](list/buy_sell_twice.py)
