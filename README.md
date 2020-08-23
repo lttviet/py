@@ -44,3 +44,4 @@ I'm planning to go over the book in 1 year from now.
 - [Next permutation](list/next_permutation.py)
 - [Nth permutation](list/nth_permutation.py)
 - [Previous permutation](list/prev_permutation.py)
+- [Random subset sampling](list/random_sampling.py)
