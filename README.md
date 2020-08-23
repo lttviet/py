@@ -39,5 +39,8 @@ I'm planning to go over the book in 1 year from now.
 
 - [Interleave so that A[0] <= A[1] >= A[2] <= A[3]...](list/interleave.py)
 - [Find all primes up to n](list/find_primes.py)
-- [Apply permutation](list/apply_permutation.py)
+- [Apply permutation](list/permutation.py)
 - [Inverse permutation](list/inverse_permutation.py)
+- [Next permutation](list/next_permutation.py)
+- [Nth permutation](list/nth_permutation.py)
+- [Previous permutation](list/prev_permutation.py)
