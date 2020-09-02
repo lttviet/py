@@ -39,9 +39,22 @@ I'm planning to go over the book in 1 year from now.
 
 - [Interleave so that A[0] <= A[1] >= A[2] <= A[3]...](list/interleave.py)
 - [Find all primes up to n](list/find_primes.py)
+
+### Permutation
+
 - [Apply permutation](list/permutation.py)
 - [Inverse permutation](list/inverse_permutation.py)
 - [Next permutation](list/next_permutation.py)
 - [Nth permutation](list/nth_permutation.py)
 - [Previous permutation](list/prev_permutation.py)
+
+### Random
+
 - [Random subset sampling](list/random_sampling.py)
+- [Random online sampling](list/online_random_sampling.py)
+- [Random permutation](list/random_sampling.py)
+- [Nonuniform random number](list/nonuniform_random_number.py)
+
+### 3D
+
+- [Spiral matrix](list/spiral_matrix.py)
